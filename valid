@@ -9,3 +9,6 @@ def CodelandUsernameValidation(str):
 
 # keep this function call here 
 print(CodelandUsernameValidation(input()))
+
+
+//This is how you do it NERD!!!!!!!!!
